@@ -1,0 +1,17 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/library.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "csx",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12"
+  }
+}
